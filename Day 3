@@ -1,0 +1,12 @@
+#Day 3
+
+n=list(map(int.input().split()))
+m=[]
+for i in range(min(n).max(n)+1):
+    m.append(i)
+    if i>0:
+       if i not in n:
+           print (i)
+           break
+    if(m==n):
+       print (max(n)+1)

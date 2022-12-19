@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 (additive equivalent)
 l=list(map(int,input().strip().split()))
 n=int(input())
 s=0

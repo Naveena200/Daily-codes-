@@ -1,4 +1,4 @@
-#Day 3
+#Day 3 (first positive integer)
 
 n=list(map(int.input().split()))
 m=[]

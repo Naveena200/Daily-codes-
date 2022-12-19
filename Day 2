@@ -1,4 +1,4 @@
-# Day2
+# Day2 (index value multiplication)
 
 l=list(map(int,input().split()))
 k=[]

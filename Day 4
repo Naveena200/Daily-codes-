@@ -1,4 +1,4 @@
-#Day 4
+#Day 4(thousands)
 n = int(input())
 def format_number(n):
     return f"{n:,d}"
